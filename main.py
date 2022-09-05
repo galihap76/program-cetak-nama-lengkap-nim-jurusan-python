@@ -2,7 +2,7 @@
 while True:
 
     # masukkan nama lengkap
-    nama_lengkap = input('Masukkan nama lengkap anda : ')
+    nama_lengkap = input('Masukkan nama lengkap kamu : ')
 
     # masukkan nim
     nim = input('Masukkan nim kamu : ')
